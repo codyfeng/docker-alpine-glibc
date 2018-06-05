@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM python:3.6-alpine3.7
 
 ENV LANG=C.UTF-8
 
